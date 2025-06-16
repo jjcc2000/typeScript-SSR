@@ -1,2 +1,0 @@
-# Request to get a list of users
-GET http://localhost:3000/
